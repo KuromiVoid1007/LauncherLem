@@ -74,6 +74,10 @@
               "target": "Package",
               "version": "[4.0.4, )"
             },
+            "CmlLib.Core.Auth.Microsoft": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.1, )"

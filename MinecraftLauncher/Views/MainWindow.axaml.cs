@@ -9,11 +9,14 @@ using System;
 using System.IO;
 using System.Net.Http;
 using System.Threading.Tasks;
+using CmlLib.Core.Auth.Microsoft;
+using static System.Collections.Specialized.BitVector32;
 
 namespace MinecraftLauncherLem.Views
 {
     public partial class MainWindow : Window
     {
+
 
 
         public MainWindow()
@@ -74,7 +77,7 @@ namespace MinecraftLauncherLem.Views
 
             var options = new MLaunchOption
             {
-                Session = MSession.CreateOfflineSession("PlayerLem"),
+               Session = MSession.CreateOfflineSession("Weelklai"),
                 MaximumRamMb = 2048
             };
 
@@ -89,7 +92,5 @@ namespace MinecraftLauncherLem.Views
             await InstallFabricApiModAsync();
             await StartMinecraftLemFabric();
         }
-
     }
-
 }

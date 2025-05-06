@@ -230,3 +230,9 @@ D:\project\LauncherLem\MinecraftLauncher\obj\Debug\net6.0\Minecraf.D86DCE2B.Up2D
 D:\project\LauncherLem\MinecraftLauncher\obj\Debug\net6.0\MinecraftLauncherLem.genruntimeconfig.cache
 D:\project\LauncherLem\MinecraftLauncher\obj\Debug\net6.0\ref\MinecraftLauncherLem.dll
 D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\CmlLib.Core.Auth.Microsoft.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\XboxAuthNet.dll
+D:\project\LauncherLem\MinecraftLauncher\bin\Debug\net6.0\XboxAuthNet.Game.dll

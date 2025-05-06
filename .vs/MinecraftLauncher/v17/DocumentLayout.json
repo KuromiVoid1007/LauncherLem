@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\project\\LauncherLem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|d:\\project\\launcherlem\\minecraftlauncher\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|solutionrelative:minecraftlauncher\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|d:\\project\\launcherlem\\minecraftlauncher\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|solutionrelative:minecraftlauncher\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|d:\\project\\launcherlem\\minecraftlauncher\\minecraftlauncherlem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|solutionrelative:minecraftlauncher\\minecraftlauncherlem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|d:\\project\\launcherlem\\minecraftlauncher\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|solutionrelative:minecraftlauncher\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F035E577-0935-4831-BB7A-3B93B60A6C41}|MinecraftLauncher\\MinecraftLauncherLem.csproj|d:\\project\\launcherlem\\minecraftlauncher\\loginform.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "MinecraftLauncher\\Views\\MainWindow.axaml",
               "ToolTip": "D:\\project\\LauncherLem\\MinecraftLauncher\\Views\\MainWindow.axaml",
               "RelativeToolTip": "MinecraftLauncher\\Views\\MainWindow.axaml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-29T23:35:51.966Z",
               "IsPinned": true,
@@ -112,13 +112,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\Views\\MainWindow.axaml.cs",
               "ToolTip": "D:\\project\\LauncherLem\\MinecraftLauncher\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "MinecraftLauncher\\Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wEsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T23:06:04.566Z",
               "EditorCaption": ""
@@ -189,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MinecraftLauncher\\Views\\MainWindow.axaml",
@@ -201,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginFormViewModel.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\ViewModels\\LoginFormViewModel.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\ViewModels\\LoginFormViewModel.cs",
@@ -214,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\ViewModels\\ViewModelBase.cs",
@@ -227,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginForm.axaml.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\LoginForm.axaml.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\LoginForm.axaml.cs",
@@ -240,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\ViewModels\\MainWindowViewModel.cs",
@@ -253,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegistrationFormViewModel.cs",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\ViewModels\\RegistrationFormViewModel.cs",
               "RelativeDocumentMoniker": "MinecraftLauncher\\ViewModels\\RegistrationFormViewModel.cs",
@@ -266,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MinecraftLauncherLem.csproj",
               "DocumentMoniker": "D:\\project\\LauncherLem\\MinecraftLauncher\\MinecraftLauncherLem.csproj",
               "RelativeDocumentMoniker": "MinecraftLauncher\\MinecraftLauncherLem.csproj",
