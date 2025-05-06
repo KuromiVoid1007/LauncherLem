@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\Legenda\\MinecraftLauncher\\MinecraftLauncherLem.csproj": {}
+    "D:\\project\\LauncherLem\\MinecraftLauncher\\MinecraftLauncherLem.csproj": {}
   },
   "projects": {
-    "D:\\project\\Legenda\\MinecraftLauncher\\MinecraftLauncherLem.csproj": {
+    "D:\\project\\LauncherLem\\MinecraftLauncher\\MinecraftLauncherLem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\Legenda\\MinecraftLauncher\\MinecraftLauncherLem.csproj",
+        "projectUniqueName": "D:\\project\\LauncherLem\\MinecraftLauncher\\MinecraftLauncherLem.csproj",
         "projectName": "MinecraftLauncherLem",
-        "projectPath": "D:\\project\\Legenda\\MinecraftLauncher\\MinecraftLauncherLem.csproj",
+        "projectPath": "D:\\project\\LauncherLem\\MinecraftLauncher\\MinecraftLauncherLem.csproj",
         "packagesPath": "C:\\Users\\coolv\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\Legenda\\MinecraftLauncher\\obj\\",
+        "outputPath": "D:\\project\\LauncherLem\\MinecraftLauncher\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,6 +77,14 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             }
           },
           "imports": [
