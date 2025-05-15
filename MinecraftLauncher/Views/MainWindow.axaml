@@ -17,7 +17,7 @@
     <Design.DataContext>
         <vm:MainWindowViewModel/>
     </Design.DataContext>
-
+	<Border CornerRadius="5" ClipToBounds="True">
 	<Panel>
 		<ExperimentalAcrylicBorder IsHitTestVisible="False">
 			<ExperimentalAcrylicBorder.Material>
@@ -30,8 +30,6 @@
 		</ExperimentalAcrylicBorder>
 	
 	<DockPanel>
-
-
 		<Panel Margin="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" >
 
 			<Button HorizontalContentAlignment="Center"
@@ -55,22 +53,13 @@
 					<ColumnDefinition Width="Auto"/>
 				</Grid.ColumnDefinitions>
 
+				
 				<Button 
-					Name="RegistrationButton" 
-					Click="RegistrationButton_Click"
-					Grid.Column="0" 
-					Content="Registration" 
-					Foreground="#fff"
-					Padding="30,15,30,15" 
-					CornerRadius="50"
-					Margin="10,0,10,0"
-					Background="#a697be"/>
-				<Button 
-					Name="LoginButton" 
-					Click="LoginButton_Click"
+					Name="WebSite" 
+					Click="WebSite_Click"
 					Foreground="#fff"
 					Grid.Column="1"
-					Content="Login"
+					Content="WebSite"
 					CornerRadius="50"
 					Padding="30,15,30,15" 
 					Margin="10,0,10,0"
@@ -123,4 +112,5 @@
 			
 	</DockPanel>
 	</Panel>
+	</Border>
 </Window>

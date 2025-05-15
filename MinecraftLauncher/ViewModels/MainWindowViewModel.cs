@@ -10,19 +10,7 @@ namespace MinecraftLauncherLem.ViewModels
 
         public string Greeting { get; } = "Welcome to Avalonia!";
 
-        [RelayCommand]
-        private void OpenLogin()
-        {
-            var loginWindow = new LoginForm();
-            loginWindow.Show();
-        }
 
-        [RelayCommand]
-        private void OpenRegistration()
-        {
-            var registrationWindow = new RegistrationForm();
-            registrationWindow.Show();
-        }
 
         [RelayCommand]
         private void OpenProfile()

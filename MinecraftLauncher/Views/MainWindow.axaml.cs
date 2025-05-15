@@ -11,6 +11,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using CmlLib.Core.Auth.Microsoft;
 using static System.Collections.Specialized.BitVector32;
+using System.Diagnostics;
 
 namespace MinecraftLauncherLem.Views
 {
@@ -27,18 +28,15 @@ namespace MinecraftLauncherLem.Views
         {
             RunFullFabricSetupAndLaunch();
         }
-        private void LoginButton_Click(object? sender, RoutedEventArgs e)
+
+        private void WebSite_Click(object sender, RoutedEventArgs e)
         {
-            var loginWindow = new LoginForm();
-            loginWindow.Show();
+            Process.Start(new ProcessStartInfo
+            {
+                FileName = "http://176.124.202.23/",
+                UseShellExecute = true
+            });
         }
-
-        private void RegistrationButton_Click(object sender, RoutedEventArgs e) 
-        { 
-            var registrationWindow = new RegistrationForm();
-            registrationWindow.Show();
-        }
-
         private void ProfileButton_Click(object sender, RoutedEventArgs e)
         {
             var profileWindow = new ProfileForm();

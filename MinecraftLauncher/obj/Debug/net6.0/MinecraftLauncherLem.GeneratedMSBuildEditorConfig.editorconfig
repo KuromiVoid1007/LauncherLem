@@ -24,13 +24,7 @@ build_property.EnableCodeStyleSeverity =
 [D:/project/LauncherLem/MinecraftLauncher/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[D:/project/LauncherLem/MinecraftLauncher/LoginForm.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
 [D:/project/LauncherLem/MinecraftLauncher/ProfileForm.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
-[D:/project/LauncherLem/MinecraftLauncher/RegistrationForm.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [D:/project/LauncherLem/MinecraftLauncher/Views/MainWindow.axaml]

@@ -13,17 +13,6 @@ public partial class ProfileForm : Window
         InitializeComponent();
     }
 
-    private void RegistrationButtonProfile_Click(object sender, RoutedEventArgs e)
-    {
-        var settingsWindow = new RegistrationForm();
-        settingsWindow.Show();
-    }
-
-    private void LoginButtonProfile_Click(object sender, RoutedEventArgs e)
-    {
-        var settingsWindow = new LoginForm();
-        settingsWindow.Show();
-    }
 
     private void WebsitePremium_Click(object sender, RoutedEventArgs e)
     {

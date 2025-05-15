@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinecraftLauncherLem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3b8c17317c0049aeb32222a5b7e33568c65323")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60895e7f4c6571e78fbba83f34a55b3dd1e4b016")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinecraftLauncherLem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinecraftLauncherLem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
